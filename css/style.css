@@ -1,0 +1,153 @@
+body{
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+header {
+    position: relative;
+    max-width: 100%;
+    margin: 0;
+}
+
+
+header a {
+    color: gray;
+    margin-left: 20px;
+}
+
+header a:hover{
+    color: rgb(0, 0, 0)
+}
+
+section {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 3%;
+}
+
+
+#section-1 {
+    position: relative;
+    color: white;
+    padding: 0;
+}
+
+#section-1 img {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.txt {
+  position: absolute;
+  top:10%;
+}
+
+#section-1 p {
+    padding: 2%;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+#section-2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#section-2 img{
+    max-width: 60px;
+}
+
+#section-2 p {
+    text-align: center; 
+    padding: 20px;
+}
+
+#section-3 {
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+#section-4 {
+    padding: 0;
+    margin: 0 auto;
+}
+
+#section-5 {
+    background: #232323;
+    color: white;
+    text-align: left;
+    
+}
+
+#section-5 a:hover {
+    color: white;
+
+}
+
+#section-5 a {
+    color:gray;
+    
+}
+
+
+#section-5 p {
+    color: gray;
+    margin-top: 5%;
+}
+
+#section-5 hr {
+    
+    background: white;
+    
+}
+
+
+img {
+    max-width:100%;
+   
+}
+
+h6 {
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+p {
+    text-align: left;
+}
+
+
+
+#style-footer {
+     background-color: black;
+    
+}
+
+#style-footer p {
+    text-align: center;
+    margin: 3%;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
